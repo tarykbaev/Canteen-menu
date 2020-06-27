@@ -52,4 +52,6 @@
 </ul>
 
 <h3>University website</h3>
-<a href="http://bis.manas.edu.kg/menu/">Manas menu</a>
+<ul>
+<li><a href="http://bis.manas.edu.kg/menu/">Manas menu</a></li>
+</ul>
