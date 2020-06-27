@@ -1,4 +1,4 @@
-# Canteen-menu
+# Menu
 <p>Manas University canteen`s menu<p>
 
 <h3>Screenshots</h3>
