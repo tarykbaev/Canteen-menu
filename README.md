@@ -18,9 +18,8 @@
     <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/8.jpg" width="303" height="600"></th>
   </tr>
 </table>
-   
-<h3>Landscape</h3>
 
+<h3>Landscape</h3>
 <table border=1>
   <tr>
     <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/6.jpg"></th>
