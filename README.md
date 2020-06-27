@@ -3,25 +3,25 @@
 
 <h3>Screenshots</h3>
 
-<table border=1  align="center">
+<table border=1>
   <tr>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/1.jpg" width="303" height="640"></th>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/2.jpg" width="303" height="640"></th>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/3.jpg" width="303" height="640"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/1.jpg" width="303" height="600"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/2.jpg" width="303" height="600"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/3.jpg" width="303" height="600"></th>
   </tr>
 </table>
 
-<table border=1  align="center">
+<table border=1>
   <tr>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/4.jpg" width="303" height="640"></th>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/5.jpg" width="303" height="640"></th>
-    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/8.jpg" width="303" height="640"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/4.jpg" width="303" height="600"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/5.jpg" width="303" height="600"></th>
+    <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/8.jpg" width="303" height="600"></th>
   </tr>
 </table>
    
 <h3>Landscape</h3>
 
-<table border=1  align="center">
+<table border=1>
   <tr>
     <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/6.jpg"></th>
     <th><img src="https://github.com/turararykbaev/Canteen-menu/blob/master/medialForDemo/7.jpg"></th>
